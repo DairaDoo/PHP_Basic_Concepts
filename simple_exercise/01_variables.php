@@ -11,7 +11,7 @@ $children = null; // null
 echo $name . "<br>";
 echo $age . "<br>";
 echo $money . "<br>";
-echo $is_married . "<br>"; // (bool only shows 1 or nothing)
+echo $is_married . "<br>"; // (bo ol only shows 1 or nothing)
 echo $is_married ? 'true' : 'false'; // ternary operator
 echo $children . "<br>";
 
