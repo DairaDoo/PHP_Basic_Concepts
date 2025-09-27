@@ -17,3 +17,24 @@ if ($x < $y) {
 } else {
     echo "x is equal to y";
 }
+
+echo "<br>";
+
+
+// looking at switch statemets in php
+$day = 3;
+
+switch ($day) {
+    case 1:
+        echo "Monday";
+        break;
+    case 2:
+        echo "Tuesday";
+        break;
+    case 3:
+        echo "Wednesday";
+        break;
+    case 4:
+        echo "Thursday";
+        break;
+}
