@@ -1,0 +1,17 @@
+{
+    "name": "daira/composer",
+    "autoload": {
+        "psr-4": {
+            "Daira\\Testing\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DairanDoo",
+            "email": "your_email@example.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.10"
+    }
+}
